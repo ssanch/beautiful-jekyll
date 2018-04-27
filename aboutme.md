@@ -4,13 +4,12 @@ title: About me
 subtitle: Why you'd want to go on a date with me
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+My name is Salvador.
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+I'm interested mainly in web development. I'm passionate about JavaScript, HTML and CSS. I love to read about performance and best web development practices.
 
-What else do you need?
+I'm always curious about new tools, frameworks, tips and tricks that can improve my skills. I like tutoring, blogging and some people would probably say I'm good at asking too many questions :)
 
-### my history
+I love to listen to music and working out, so if I'm not coding I'm probably playing guitar or having a good workout.
 
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](http://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+You said JavaScript? I'm all ears :)

@@ -1,12 +1,10 @@
 ---
-
 layout: post
-title: Flake it till you make it
-subtitle: Excerpt from Soulshaping by Jeff Brown
-bigimg: /img/path.jpg
-
-## tags: [books, test]
-
+title: let, const and block scope in ES6
+subtitle: New exciting ES6 features
+gh-badge: [star, fork, follow]
+tags: [es6, javascript]
+---
 Under what circumstances should we step off a path? When is it essential that we finish what we start? If I bought a bag of peanuts and had an allergic reaction, no one would fault me if I threw it out. If I ended a relationship with a woman who hit me, no one would say that I had a commitment problem. But if I walk away from a seemingly secure route because my soul has other ideas, I am a flake?
 
 - **let**: This is a new keyword available to declare variables. The awesomeness of this keyword is that it does not do any kind of [hoisting](https://developer.mozilla.org/en-US/docs/Glossary/Hoisting).

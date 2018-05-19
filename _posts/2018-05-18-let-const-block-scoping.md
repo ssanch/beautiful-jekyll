@@ -3,6 +3,7 @@
 layout: post
 title: Flake it till you make it 
 subtitle: Excerpt from Soulshaping by Jeff Brown big
+bigimg: /img/path.jpg
 
 ## tags: [es6, javascript]
 

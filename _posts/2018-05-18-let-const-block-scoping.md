@@ -182,8 +182,6 @@ console.log(`User Id {userId}`);
 
 The really interesting thing here is that a function can make use of an variable that has not been declared yet. The interpreter will not have a problem with this. The only requirement is that variables must be defined before they are being accessed.
 
----
-
 All the previous new features are great additions to the JavaScript specification. Now the only thing is to be able to use them depending on the browsers our projects need to support. In general as community I think we should push users into upgrading their browsers to the most recent versions so we all get the benefits of this.
 
 -Happy coding

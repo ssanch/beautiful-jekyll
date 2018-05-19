@@ -1,6 +1,8 @@
-# let, const and block scoping
+---
 
 layout: post
+title: let, const and block scoping
+subtitle: New ES6 features
 
 ## tags: [es6, javascript]
 

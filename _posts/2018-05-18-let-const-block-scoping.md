@@ -4,7 +4,7 @@ layout: post title: Flake it till you make it subtitle: Excerpt from Soulshaping
 
 ## tags: \[books, test\]
 
-### Let's take a look at these new features in ES6
+Let's take a look at these new features in ES6
 
 - **let**: This is a new keyword available to declare variables. The awesomeness of this keyword is that it does not do any kind of [hoisting](https://developer.mozilla.org/en-US/docs/Glossary/Hoisting).
 - **const**: This is another new keyword that has been added to the specification. It allows us to create true constants in JavaScript.

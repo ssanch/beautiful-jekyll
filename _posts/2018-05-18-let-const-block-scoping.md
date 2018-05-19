@@ -2,7 +2,7 @@
 
 layout: post title: Flake it till you make it subtitle: Excerpt from Soulshaping by Jeff Brown bigimg: /img/path.jpg
 
-## tags: \[books, test\]
+## tags: [es6, javascript]
 
 Let's take a look at these new features in ES6
 

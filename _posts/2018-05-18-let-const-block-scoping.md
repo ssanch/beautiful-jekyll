@@ -1,5 +1,9 @@
 # let, const and block scoping
 
+layout: post
+
+## tags: [es6, javascript]
+
 Let's take a look at these new features in ES6
 
 - **let**: This is a new keyword available to declare variables. The awesomeness of this keyword is that it does not do any kind of [hoisting](https://developer.mozilla.org/en-US/docs/Glossary/Hoisting).

@@ -1,9 +1,9 @@
-
+---
 layout: post
-title: Accessibility checklist for web pages
-subtitle: I came with a checklist of features that must be validated when testing accessibility on sites
+title: Accessibility checklist
+subtitle: I came up with a checklist of accessibility features that should be helpful in order to build accessible sites
 gh-badge: [star, fork, follow]
-tags: [html, css, accessibility, standards]
+tags: [accessibility, html, checklist]
 ---
 ### Let's take a look at these new features in ES6
 

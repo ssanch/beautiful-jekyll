@@ -1,8 +1,11 @@
+
+layout: post
+title: Accessibility checklist for web pages
+subtitle: I came with a checklist of features that must be validated when testing accessibility on sites
+gh-badge: [star, fork, follow]
+tags: [html, css, accessibility, standards]
 ---
-
-layout: post title: let, const and block scope in ES6 subtitle: New exciting ES6 features gh-badge: \[star, fork, follow\]
-
-## tags: \[es6, javascript\]
+### Let's take a look at these new features in ES6
 
 ## WAI-ARIA Authoring Practices 1.1
 

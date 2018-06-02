@@ -5,7 +5,6 @@ subtitle: I came up with a checklist of accessibility features that should be he
 gh-badge: [star, fork, follow]
 tags: [accessibility, html, checklist]
 ---
-### Let's take a look at these new features in ES6
 
 ## WAI-ARIA Authoring Practices 1.1
 

@@ -1,11 +1,10 @@
 ---
-
 layout: post
 title: Accessibility checklist
 subtitle: I came up with a checklist of accessibility features that should be helpful in order to build accessible sites
 gh-badge: [star, fork, follow]
-
-## tags: [accessibility, html, checklist]
+tags: [accessibility, html, checklist]
+---
 
 ## WAI-ARIA Authoring Practices 1.1
 

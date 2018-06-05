@@ -66,7 +66,7 @@ Considerations
 
 - The `label` tag only works with form HTML native elements
 
-- `arial-label``aria-labelledby``aria-describedby` are great options for elements where the label tag does not work
+- `arial-label` `aria-labelledby` `aria-describedby` are great options for elements where the label tag does not work
 
 - Consider compound labels for interactive controls that by themselves do not offer a good descriptions of its purpose. See [Compound Labels](#compound-labels) section
 

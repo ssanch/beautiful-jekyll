@@ -1,10 +1,11 @@
 ---
+
 layout: post
 title: Accessibility checklist
 subtitle: I came up with a checklist of accessibility features that should be helpful in order to build accessible sites
 gh-badge: [star, fork, follow]
-tags: [accessibility, html, checklist]
----
+
+## tags: [accessibility, html, checklist]
 
 ## WAI-ARIA Authoring Practices 1.1
 
@@ -22,11 +23,13 @@ The list below outlines the development effort needed in order to make sure our 
 
 ## General Checks
 
-[ ] Content has good color contrast
+- [ ] Content has good color contrast
 
-[ ] Focus is properly managed and visible
 
-[ ] Controls have accessible labels
+- [ ] Focus is properly managed and visible
+
+
+- [ ] Controls have accessible labels
 
 ## Color Contrast
 
@@ -44,7 +47,7 @@ To validate
 
 - Hidden elements should not be part of the accessibility tree. Find the `inert` section to see how to achieve this
 
-- Focus cannot escape from widgets, dialogs or any other element where the user is supposed to choose an option before leaving (User must be able escape our of the web content area for security reasons though)
+- Focus cannot escape from widgets, dialogs or any other element where the user is supposed to choose an option before leaving (User must be able escape out of the web content area for security reasons)
 
 **Tools**
 
@@ -63,7 +66,7 @@ Considerations
 
 - The `label` tag only works with form HTML native elements
 
-- `arial-label``aria-labelledby``aria-describedby`are great options for elements where the label tag does not work
+- `arial-label``aria-labelledby``aria-describedby` are great options for elements where the label tag does not work
 
 - Consider compound labels for interactive controls that by themselves do not offer a good descriptions of its purpose. See [Compound Labels](#compound-labels) section
 

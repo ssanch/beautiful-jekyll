@@ -6,7 +6,7 @@ gh-badge: [star, fork, follow]
 tags: [accessibility, html, checklist]
 ---
 
-## WAI-ARIA Authoring Practices 1.1
+# WAI-ARIA Authoring Practices 1.1
 
 If you are using/creating a custom element this is the first place to go in order to make sure the element will be accessible.
 
@@ -48,12 +48,9 @@ To validate
 
 - Focus cannot escape from widgets, dialogs or any other element where the user is supposed to choose an option before leaving (User must be able escape out of the web content area for security reasons)
 
-**Tools**
+- It's important to direct the user's attention by moving focus in certain scenarios. Some examples of this is a modal window or a notification. Users using a screen reader might not get an indication that there is new content in the page.
 
-- [ChromeLens](http://chromelens.xyz/) - Tracker feature
-- Use your keyboard :)
-
-## Acccessible Labels
+## Accessible Labels
 
 All interactive controls should have labels associated. These labels describe the purpose of the control to screen readers. 
 
@@ -69,21 +66,24 @@ Considerations
 
 - Consider compound labels for interactive controls that by themselves do not offer a good descriptions of its purpose. See [Compound Labels](#compound-labels) section
 
-Brief descriptions of controls. **Typically action verbs**.
 
-**Tools**
-
-- [Axe Core](https://axe-core.org/)
-- [Google Chrome](https://developers.google.com/web/fundamentals/accessibility/) has a built-in feature that allows you to audit this
-
-## `inert` attribute/property
+##  The `inert` attribute/property
 
 ## <a id="compound-labels">Compound Labels</a>
 
-#### Screen Readers Software
+## Development tools
+- [Axe Core](https://axe-core.org/) - Great for color contrast
+    - [Chrome Extension](https://chrome.google.com/webstore/detail/axe/lhdoppojpmngadmnindnejefpokejbdd)
+    - [Firefox Addon](https://addons.mozilla.org/en-US/firefox/addon/axe-devtools/)
+- [ChromeLens](http://chromelens.xyz/) - Focus on visually impaired people. The tracker feature is a must to see the logical flow that a screen reader would follow
+- [Google Chrome](https://developers.google.com/web/fundamentals/accessibility/) has a built-in feature that allows you to audit this
 
-- VoiceOver - Mac, IOS
+## Screen Readers Software
 
-- NVDA - Windows
+- VoiceOver (Mac, IOS) - Pre installed with any version of MacOS. Basics can be learned at [Screen Reader Basics: VoiceOver](https://www.youtube.com/watch?v=5R-6WvAihms)
 
-- GTalk - Android
+- [NVDA](https://www.nvaccess.org/) (Windows) - Develop by a non-profit organization is available to be downloaded for free. Basics can be learned at [Screen Reader Basics: NVDA](https://www.youtube.com/watch?v=Jao3s_CwdRU)
+
+- TalkBack (Android) - Pre installed in any device running Android. Basics can be learned at [TalkBack](https://www.youtube.com/watch?v=0Zpzl4EKCco)
+
+**Testing in at least one of these is highly recommended**

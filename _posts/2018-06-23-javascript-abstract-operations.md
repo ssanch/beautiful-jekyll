@@ -3,7 +3,7 @@ layout: post
 title: Abstract Value Operations
 subtitle: The rules that govern convertion of value types to primitives
 gh-badge: [star, fork, follow]
-bigimg: /img/javascript.png
+share-img: /img/javascript.png
 tags: [javascript, abstract-operations, toString, ToNumber, ToBoolean]
 ---
 ### Abstract Value Operations

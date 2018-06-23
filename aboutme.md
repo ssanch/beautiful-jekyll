@@ -4,12 +4,12 @@ title: About me
 subtitle: Why you'd want to go on a date with me
 ---
 
-My name is Salvador.
+My name is Salvador
 
-I'm interested mainly in web development. I'm passionate about JavaScript, HTML and CSS. I love to read about performance and best web development practices.
+I'm a Software Engineer passionate about web technologies: HTML, JavaScript, CSS, web browsers, standards and performance. Pick one you say? JavaScript definitely! I like to try the different dev tools and frameworks out there. I'm always interested in tips and tricks that can make development easier.
 
-I'm always curious about new tools, frameworks, tips and tricks that can improve my skills. I like tutoring, blogging and some people would probably say I'm good at asking too many questions :)
+The main reason why I decided to make a living out of creating software is because of the impact that software does on business and more importantly on people. And that's something I've found on the web... so here I am. 
 
-I love to listen to music and working out, so if I'm not coding I'm probably playing guitar or having a good workout.
+I'm by no means an expert I just know how to get things done and I've learned a few tricks in the process. 
 
-You said JavaScript? I'm all ears :)
+As for today I'm currently part of the awesome dev team at Polaris that must provide the tools we need to get create our web sites and make sure our customers have the best experience when stopping by.

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Abstract Value Operations
+title: Abstract Value Operations in JavaScript
 subtitle: The rules that govern convertion of value types to primitives
 gh-badge: [star, fork, follow]
 share-img: /img/javascript.jpg

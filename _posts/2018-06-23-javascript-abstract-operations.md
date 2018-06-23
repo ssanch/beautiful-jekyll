@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Abstract Value Operations in JavaScript
-subtitle: The rules that govern convertion of value types to primitives
+subtitle: I've found that a lot of developers out there continually get confused about the result of converting certain value types to primitives. There is in fact a set of rules on how value types and specific values are converted to the different primitives.
 gh-badge: [star, fork, follow]
 share-img: /img/javascript.jpg
 tags: [javascript, abstract-operations, toString, ToNumber, ToBoolean]

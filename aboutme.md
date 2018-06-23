@@ -12,6 +12,6 @@ The main reason why I decided to make a living out of creating software is becau
 
 I'm by no means an expert I just know how to get things done and I've learned a few tricks in the process. 
 
-As for today I'm currently part of the awesome dev team at Polaris that must provide the tools we need to get create our web sites and make sure our customers have the best experience when stopping by.
+As for today I'm currently part of the awesome dev team at Polaris that must provide the tools needed to create our sites and make sure our customers have the best experience when stopping by.
 
 Besides my professional interests I like dogs, to play guitar, to work out and lately I'm into cooking.

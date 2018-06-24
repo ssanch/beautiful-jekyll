@@ -71,10 +71,10 @@ author:
 # If you want to add a new link that isn't here, you'll need to also edit the file _data/SocialNetworks.yml
 social-network-links:
   rss: false
-  email: "ytp@tuta.io"
+  email: "salvador@ssanch.com"
   #facebook: daattali
   github: ssanch
-  twitter: xirneyeqi
+  twitter: ssanch_
 #  reddit: yourname
 #  google-plus: +DeanAttali
   linkedin: ssanch
@@ -98,7 +98,7 @@ share-links-active:
 
 # How to display the link to the website in the footer
 # Remove this if you don't want a link in the footer
-url-pretty: "ssanch.github.io"  # eg. "deanattali.com/beautiful-jekyll"
+url-pretty: "ssanch.com"  # eg. "deanattali.com/beautiful-jekyll"
 
 # --- Web Statistics Section --- #
 

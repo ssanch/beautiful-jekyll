@@ -1,10 +1,11 @@
 ---
 layout: page
 title: About me
-title: About mebigimg: /img/javascript.png
+title: About me
 subtitle: Why you'd want to go on a date with me
 ---
 
+![Profile Pic](img/me.jpg)
 My name is Salvador
 
 I'm a Software Engineer passionate about web technologies: HTML, JavaScript, CSS, web browsers, standards, pattern designs and performance. Pick one you say? JavaScript definitely! I like to try the different dev tools and frameworks out there. I'm always interested in tips and tricks that can make development easier.

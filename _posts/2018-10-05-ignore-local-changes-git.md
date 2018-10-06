@@ -41,6 +41,6 @@ Now you might run into a scenario where a user made a change to that file and pu
 The easiest thing to do is to undo your changes, get latest and merge if needed. So you restore Git's management to the file having conflicts bu running
 ```bash
 git update-index --no-skip-worktree <path to file>
-
-And that's it :)
 ```
+
+And that's it. Hope your find this as helpful as I have.
